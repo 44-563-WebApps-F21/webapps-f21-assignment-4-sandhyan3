@@ -7,7 +7,7 @@ p.directions{
     font-size: 14px;
     font-family: 'Times New Roman';
     color: black;
-    background-color: gray;
+    background-color: slateblue;
 }
 p.directions:hover{
     background-color: cornflowerblue;
