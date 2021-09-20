@@ -1,0 +1,47 @@
+p{
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+p.directions{
+    font-size: 14px;
+    font-family: 'Times New Roman';
+    color: black;
+    background-color: gray;
+}
+p.directions:hover{
+    background-color: cornflowerblue;
+    color: crimson;
+}
+h6{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color: black;
+}
+h6.LORD WINDERMERE{
+    color: darkslateblue;
+
+   
+}
+h6.LADY WINDERMERE{
+    color: darkseagreen;
+
+}
+h6.PARKER{
+    color: darkturquoise;
+
+}
+h6.LORD AUGUSTUS{
+    color: indianred;
+
+}
+h6.DUCHESS OF BERWICK{
+    color: lawngreen;
+}
+h6.CECIL GRAHAM{
+    color: lightpink;
+}
+h6.LADY PLYMDALE{
+    color: mediumaquamarine;
+
+}
