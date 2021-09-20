@@ -18,30 +18,24 @@ h6{
     font-family: 'Times New Roman';
     color: black;
 }
-h6.LORD WINDERMERE{
-    color: darkslateblue;
-
-   
+h6.LORD_WINDERMERE{
+    color: darkslateblue;   
 }
-h6.LADY WINDERMERE{
+h6.LADY_WINDERMERE{
     color: darkseagreen;
-
 }
 h6.PARKER{
     color: darkturquoise;
-
 }
-h6.LORD AUGUSTUS{
+h6.LORD_AUGUSTUS{
     color: indianred;
-
 }
-h6.DUCHESS OF BERWICK{
+h6.DUCHESS_OF_BERWICK{
     color: lawngreen;
 }
-h6.CECIL GRAHAM{
+h6.CECIL_GRAHAM{
     color: lightpink;
 }
-h6.LADY PLYMDALE{
+h6.LADY_PLYMDALE{
     color: mediumaquamarine;
-
 }
