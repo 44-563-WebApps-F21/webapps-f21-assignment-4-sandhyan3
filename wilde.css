@@ -39,6 +39,12 @@ h6.CECIL_GRAHAM{
 h6.LADY_PLYMDALE{
     color: mediumaquamarine;
 }
+h6.LORD_DARLINGTON{
+    color: royalblue;
+}
+h6.MRS._ERLYNNE{
+    color: sienna;
+}
 
 table,th,td{
     border-collapse: collapse;
