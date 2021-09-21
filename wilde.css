@@ -39,3 +39,19 @@ h6.CECIL_GRAHAM{
 h6.LADY_PLYMDALE{
     color: mediumaquamarine;
 }
+
+table,th,td{
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: left;
+    padding: 18px;
+    margin: 10px    
+}
+th{
+    font-size: 20px;
+    background-color: cadetblue;
+}
+tr:nth-child(even){
+    background-color: pink;
+}
