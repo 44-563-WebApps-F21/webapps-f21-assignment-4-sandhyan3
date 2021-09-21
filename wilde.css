@@ -65,3 +65,22 @@ h6.LORD_WINDERMERE:hover{
     text-shadow: 2px 2px 6px purple;
     border-style:double;
 }
+.navbar {
+    width: 100%;
+    background-color: darkgrey;
+    overflow:auto;
+    
+}
+.navbar a{
+    float: left;
+    padding:12px;
+    color: ivory;
+    text-decoration: mediumpurple;
+    font-size: 15px;
+}
+.navbar a:hover{
+    background-color: indigo;
+}
+.active {
+    background-color: black;
+}
